@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snowvirus" alt="snowvirus" /></a> </p>
 
-- 💬 Ask me about **java, react, typscript, express, node**
+- 💬 Ask me about **java, react, typscript, express, node, next, ?python**
 
 - 📫 How to reach me **bazzenkyafrancis@gmail.com**
 
