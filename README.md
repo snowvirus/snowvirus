@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **java, react, typscript, express, node, next, ?python**
 
-- 📫 How to reach me **bazzenkyafrancis@gmail.com**
+- 📫 How to reach me **snowvirus.143.nt@gmail.com**
 
 - ⚡ Fun fact **I think a creative. Test me with something**
 
