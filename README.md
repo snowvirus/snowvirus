@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snowvirus&show_icons=true&locale=en" alt="snowvirus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowvirus&" alt="snowvirus" /></p>
