@@ -1,36 +1,13 @@
-# Hi, I'm snowvirus 👋
 
-I enjoy coding, solving problems, and turning creative ideas into useful software.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowvirus&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter for snowvirus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snowvirus" alt="snowvirus" /></a> </p>
 
-- 💬 Ask me about **Java, React, TypeScript, Express, Node.js, Next.js, and Python**.
-
 - 📫 Reach me at **[snowvirus.143.nt@gmail.com](mailto:snowvirus.143.nt@gmail.com)**.
 
-- ⚡ I enjoy creative challenges — give me a problem to solve!
-
-## GitHub analytics
-
-<a href="https://github.com/snowvirus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=snowvirus&amp;show_icons=true&amp;theme=dark_github&amp;hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api?username=snowvirus&amp;show_icons=true&amp;theme=light_github&amp;hide_border=true" alt="snowvirus's GitHub stats: stars, commits, pull requests, issues, and contributions" width="495" />
-  </picture>
-</a>
-
-<a href="https://github.com/snowvirus?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=snowvirus&amp;layout=compact&amp;langs_count=8&amp;theme=dark_github&amp;hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=snowvirus&amp;layout=compact&amp;langs_count=8&amp;theme=light_github&amp;hide_border=true" alt="Most used languages in snowvirus's public repositories" width="400" />
-  </picture>
-</a>
-
-These cards summarize public GitHub activity and repository languages. Language proportions describe code in repositories, rather than skill level. Stats refresh periodically and may be delayed by service caching.
-
-Powered by [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended), the successor recommended by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
+- https://github-readme-streak-stats.herokuapp.com/?user=snowvirus&theme=transparent&hide_border=true%22%20alt=%22GitHub%20Streak
 
 
 <h3 align="left">Languages and Tools:</h3>
