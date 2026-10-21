@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snowvirus" alt="snowvirus" /></a> </p>
 
 - 📫 Reach me at **[snowvirus.143.nt@gmail.com](mailto:snowvirus.143.nt@gmail.com)**.
-https://github-readme-streak-stats.herokuapp.com/?user=snowvirus&theme=transparent&hide_border=true%22%20alt=%22GitHub%20Streak
 
 
 <h3 align="left">Languages and Tools:</h3>
